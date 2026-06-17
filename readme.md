@@ -9,16 +9,21 @@ Memtly (formerly WeddingShare) is a very basic site with only one goal. It provi
 
 ![Screenshot](https://raw.githubusercontent.com/Memtly/Memtly.Assets/master/Screenshots/Community/Desktop/Light/Gallery_Default.png)
 
-## Why Rebrand / Rename?
-
-Originally this project was called `WeddingShare`. As more and more people started using it we quickly realised that people were using it for more than just weddings. We've seen concerts, friend trips, and a whole host of other events. It only felt right that we rebrand to something more "generic" to cover all bases and reduce confusion when inevitably someone recommends it to a friend and their response is "but I'm not getting married". That's where Memtly comes in... Now along with the improved look, we also have an improved name.
-
 ## Support
 
 Thank you to everyone that supports this project. For anyone that hasn't yet I would be grateful if you would show some support by "buying me a coffee" or sponsoring on GitHub using the links below. All proceeds will go towards maintaining and improving this project.
 
 - BuyMeACoffee - https://buymeacoffee.com/memtly
 - GitHub Sponsors - https://github.com/sponsors/Memtly
+
+<br/>
+<a href="https://www.buymeacoffee.com/memtly" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 40px; width: 150px;">
+</a>
+
+## Why Rebrand / Rename?
+
+Originally this project was called `WeddingShare`. As more and more people started using it we quickly realised that people were using it for more than just weddings. We've seen concerts, friend trips, and a whole host of other events. It only felt right that we rebrand to something more "generic" to cover all bases and reduce confusion when inevitably someone recommends it to a friend and their response is "but I'm not getting married". That's where Memtly comes in... Now along with the improved look, we also have an improved name.
 
 ## Demo
 
