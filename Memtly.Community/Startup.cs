@@ -16,6 +16,7 @@ namespace Memtly.Community
         public void ConfigureServices(IServiceCollection services)
         {
             services.ConfigureCommunityServices();
+            services.AddHostedService<EventGallerySettingsInitializer>();
 
             Ready = true;
         }
